@@ -4,11 +4,12 @@
 To write a C Program to convert a given decimal value to binary using function without arguments with return type.
 
 ## Algorithm
-Analyze the question
-Follow the algorithm
-Try the code
-Check for error
-Run & Display the output
+1. Analyze the question
+2. Follow the algorithm
+3. Try the code
+4. Check for error
+5. Run & Display the output
+
 
 ## Program:
 ```
