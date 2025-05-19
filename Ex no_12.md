@@ -4,11 +4,12 @@
 To write a C program to check whether the given number is prime or not using function without return type and with arguments.
 
 ## Algorithm
-Analyze the question
-Follow the algorithm
-Try the code
-Check for error
-Run & Display the output
+
+1. Analyze the question
+2. Follow the algorithm
+3. Try the code
+4. Check for error
+5. Run & Display the output
 
 ## Program:
 ```
